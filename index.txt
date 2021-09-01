@@ -1,1 +1,8 @@
 hello world
+
+git config --global user.email "suryagunasekaran24@gmail.com"
+
+git config --global user.name "Surya319"
+
+
+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
